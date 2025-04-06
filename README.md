@@ -19,3 +19,6 @@ A mini web game that includes two classical games "Tic Tac Toe" and "Rock Paper 
 - HTML
 - CSS
 - JavaScript
+
+## Author
+Tuhin Adhikari
