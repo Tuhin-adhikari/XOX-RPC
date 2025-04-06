@@ -1,6 +1,6 @@
 # XOX-RPC (Digame) - Tic-Tac-Toe + Rock Paper Scissors
 
-A mini web game hub that includes two classical games "Tic Tac Toe" and "Rock Paper Scissors" - all in one clean, interactive interface
+A mini web game that includes two classical games "Tic Tac Toe" and "Rock Paper Scissors" - all in one clean, interactive interface.
 
 ## Features
 
